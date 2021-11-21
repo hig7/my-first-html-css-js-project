@@ -1,0 +1,17 @@
+.header-text {
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold
+}
+
+.input-style {
+    width: 500px;
+}
+
+.button-style {
+    background-color: red; 
+    width: 200px;
+    color: white;
+    cursor: pointer;
+}
